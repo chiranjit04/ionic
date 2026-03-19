@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     tools {
-        nodejs "node"   // make sure node is configured in Jenkins
+        nodejs "node"   // make sure node is configured in Jenkins -AWS
     }
 
     stages {
